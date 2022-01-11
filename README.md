@@ -1,2 +1,2 @@
-# cs61a
-CS61A FA '21 Work
+# CS61a
+CS61a FA '21 Coursework
